@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Software Engineer and Web Application Developer. I have worked on many applications using JavaScript, React, Nodejs, Express.js, Go, PostgreSQL, MongoDB, Firebase and HTML/CSS.
+I am a Software Engineer and Web Application Developer. I have worked on many applications using JavaScript, React, Nodejs, Express.js, Go, PostgreSQL, MongoDB, Firebase and HTML/CSS. I have also deployed applications to AWS.
 <br>
 
 ## Connect with me
